@@ -1,2 +1,2 @@
 # data
-this is day1
+this is day
